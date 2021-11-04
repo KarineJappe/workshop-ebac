@@ -2,7 +2,7 @@
 
 Projeto desenvolvido ao logo do workshop da Ebac ministrado pelo Samuel Lucas, onde foi utilizado para criar testes automatizados a aplicação [dev.finance$](https://devfinance-agilizei.netlify.app/#).
 
-## Conceitos esinados
+## Conceitos ensinados
 * Diferença entre testes end-to-end, interface e comportamento
     * end-to-end - testes de ponta a ponta
     * interface - testes com o front-end isolado
